@@ -1,0 +1,6 @@
+{
+    "nombre" : "Api Rest default",
+    "configDB" : {
+        "host":"prueba-db-server"
+    }
+}

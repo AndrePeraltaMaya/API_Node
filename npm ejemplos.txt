@@ -1,0 +1,5 @@
+npm init --yes //crear el package.json
+
+npm install paquete --save
+npm i paquete //para instalar un paquete
+
